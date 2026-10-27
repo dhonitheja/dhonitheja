@@ -11,9 +11,6 @@ Full-stack engineer building production-grade **agentic AI** systems: multi-agen
 
 ## Featured projects
 
-### 🎙️ AI Call Interception & Screening Engine
-Production voice AI system serving **100K+ daily users**. Built with Spring Boot, Twilio, Deepgram, ElevenLabs, and AWS EKS.
-
 ### 👗 StyleAI
 LangGraph multi-agent fashion SaaS with a 12-season professional color analysis system and a virtual try-on pipeline via the FASHN API. Uses Grok 3 Mini for reasoning. **77/77 tests passing.**
 
