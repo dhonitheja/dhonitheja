@@ -1,7 +1,5 @@
 # Hi there 👋
 
-Full-stack engineer building production-grade **agentic AI** systems: multi-agent workflows and the Java/Python/cloud plumbing that keeps them reliable.
-
 ## What I work on
 
 - **Agentic AI**: LangGraph multi-agent systems, tool use, RAG pipelines, grounded outputs
@@ -21,11 +19,6 @@ Full-stack engineer building production-grade **agentic AI** systems: multi-agen
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_+_pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 
 **AI tooling:** LangGraph · Claude · GPT-4o · pgvector RAG
-
-## Certifications
-
-- 🏅 GitHub Certified: Agentic AI Developer (2026)
-- 🏅 Microsoft Certified: Fabric Data Engineer Associate (2026)
 
 ## GitHub stats
 
